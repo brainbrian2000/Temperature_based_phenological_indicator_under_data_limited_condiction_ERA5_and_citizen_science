@@ -20,7 +20,7 @@ def read_csv(file_path):
     Reads a CSV file and returns a DataFrame with the relevant columns.
     """
     df = pd.read_csv(file_path)
-    df.columns = ['id', 'date', 'country', 'type', 'phenophase', 'altitude', 'lat_long', 'url']
+    df.columns = ['id', 'date', 'type', 'phenophase', 'altitude', 'lat_long', 'url']
     lat_lon_split = df['lat_long'].str.split(',', expand=True)
     df['lat'] = lat_lon_split[0].astype(float)
     df['lon'] = lat_lon_split[1].astype(float)
@@ -30,7 +30,8 @@ def read_csv(file_path):
     df.dropna(subset=['lat', 'lon', 'date'], inplace=True)  # 去除無效的 lat, lon, date
     return df
 print ("Reading CSV file...")
-df = read_csv('spider_tree_flowering.csv')
+df = read_csv('sample_locations.csv')
+# df = read_csv('spider_tree_flowering.csv')
 print ("CSV file read successfully.")
 # print(df)
 # print(df.loc[0]["lat_long"][0])
@@ -58,10 +59,10 @@ df['lon'] = df['lon'].apply(convert_lon)
 # print ("Longitude converted.")
 # print(df['lon'])
 #remove url, contury
-df.drop(columns=['url', 'country',"type",'phenophase'], inplace=True)
+df.drop(columns=['url',"type",'phenophase'], inplace=True)
 
 #storage into csv
-df.to_csv('spider_tree_flowering_converted.csv', index=False)
+df.to_csv('sample_locations_converted.csv', index=False)
 #to list
 df_list = df.values.tolist()
 # print(df_list)
@@ -147,7 +148,7 @@ df_list = set_nearest_4point_de1(df_list)
 #save to csv
 df_list_df = pd.DataFrame(df_list)
 df_list_df.columns = ['id', 'date', 'year', 'month', 'day', 'lat', 'lon', 'lat_lon_pair_list', 'weighting_list']
-df_list_df.to_csv('spider_tree_flowering_converted_4point.csv', index=False)
+df_list_df.to_csv('sample_locations_converted_4point.csv', index=False)
 #ploting basemap
 # plt.figure(figsize=(10, 7))
 

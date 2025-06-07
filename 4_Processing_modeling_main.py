@@ -12,7 +12,7 @@ from sklearn.model_selection import KFold
 
 
 # Load datasets into corresponding variables
-flowering_df = pd.read_csv('spider_tree_flowering_converted.csv')
+flowering_df = pd.read_csv('sample_locations_converted.csv')
 temperature_mean_df = pd.read_csv('temperature_previous_365days.csv')
 temperature_GDD_df = pd.read_csv('temperature_previous_365days_min_max.csv')
 

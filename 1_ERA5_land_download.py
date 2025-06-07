@@ -92,7 +92,6 @@ for year in years:
                     "month": month,
                     "day": [f"{d:02d}" for d in range(1, 32)],
                     "time": [f"{h:02d}:00" for h in range(24)],
-                    # "area": [26, 119, 21, 123],  # 北、西、南、東（台灣）
                     "data_format": "netcdf",
                     "download_format": "unarchived",
                 },
