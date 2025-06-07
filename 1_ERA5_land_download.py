@@ -54,10 +54,8 @@ dataset = "reanalysis-era5-land"
 import cdsapi
 import os
 
-# ✅ 建議：先進入你想儲存的資料夾再執行此程式，或修改 download_dir 變數來指定路徑
 download_dir = "./era5_land_temperature"
 
-# ✅ 建立資料夾（若不存在）
 os.makedirs(download_dir, exist_ok=True)
 
 client = cdsapi.Client()
