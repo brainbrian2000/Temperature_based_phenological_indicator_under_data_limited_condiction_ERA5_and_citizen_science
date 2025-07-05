@@ -20,7 +20,8 @@ def read_csv(file_path):
     Reads a CSV file and returns a DataFrame with the relevant columns.
     """
     df = pd.read_csv(file_path)
-    df.columns = ['id', 'date', 'type', 'phenophase', 'altitude', 'lat_long', 'url']
+    df.columns = ['id', 'date', 'type', 'phenophase',  'lat_long']
+    # df.columns = ['id', 'date', 'type', 'phenophase', 'altitude', 'lat_long', 'url'] # original columns with url and altitude
     lat_lon_split = df['lat_long'].str.split(',', expand=True)
     df['lat'] = lat_lon_split[0].astype(float)
     df['lon'] = lat_lon_split[1].astype(float)
@@ -58,7 +59,8 @@ df['lon'] = df['lon'].apply(convert_lon)
 # print ("Longitude converted.")
 # print(df['lon'])
 #remove url, contury
-df.drop(columns=['url', "type",'phenophase'], inplace=True)
+# df.drop(columns=['url', "type",'phenophase'], inplace=True)
+df.drop(columns=["type",'phenophase'], inplace=True)
 
 #storage into csv
 df.to_csv('sample_locations_converted.csv', index=False)
@@ -113,8 +115,10 @@ def set_nearest_4point_de1(dataframe_list):
     new_list = []
     for i in range(len(dataframe_list)):
         # Get the latitude and longitude of the observation
-        lat = dataframe_list[i][3]
-        lon = dataframe_list[i][4]
+        # lat = dataframe_list[i][3]
+        # lon = dataframe_list[i][4]
+        lat = dataframe_list[i][2]
+        lon = dataframe_list[i][3] # lat, lon are in dataframe_list[i][2] and dataframe_list[i][3] at new version of data
         # [lat1,lat2,lon1,lon2]
         lat1 = int(lat*10)/10.0
         if(lat>0):
@@ -400,9 +404,6 @@ for year_ in range(year_begin,year_end+1):
                                             hr_max[i]=temperature
                                         if(temperature<hr_min[i]):
                                             hr_min[i]=temperature
-
-
-
                                     #index_acc_day = int(temperature_previous_index[i])
                                     #temperature_previous_180days[i,index_acc_day]= temperature
                                     #temperature_previous_index[i] += 1
@@ -431,7 +432,7 @@ for year_ in range(year_begin,year_end+1):
             
 #output temperature_previous_180days to csv
 temperature_previous_180days_df = pd.DataFrame(temperature_previous_180days)
-temperature_previous_180days_df.to_csv('temperature_previous_365days_min_max.csv', index=False)
+temperature_previous_180days_df.to_csv('temperature_previous_365days.csv', index=False)
 temperature_previous_180days_df_min_max = pd.DataFrame(temperature_previous_180days_min_max)
 temperature_previous_180days_df_min_max.to_csv('temperature_previous_365days_min_max.csv', index=False)
 # print("Temperature previous 180 days:")
