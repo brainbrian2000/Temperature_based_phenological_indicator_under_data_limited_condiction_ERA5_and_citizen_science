@@ -1,153 +1,105 @@
-Number,Date,Type,State,Altitude,Coordinate,Sources
-1,3/10/2025,Observation,Flowering,78," 21.98899, 96.11989",https://www.inaturalist.org/observations/264894378
-2,3/8/2025,Observation,Flowering,50,"20.46345, 85.88421",https://www.inaturalist.org/observations/264783011
-3,,,,,,
-4,2/21/2025,Observation,Flowering,797,"12.08897, 75.90360",https://www.inaturalist.org/observations/262491886
-5,2/11/2025,Observation,Flowering,325," 11.10475, 77.34965",https://www.inaturalist.org/observations/261426932
-6,1/4/2025,Observation,Flowering,149," 11.24756, 78.89585",https://www.inaturalist.org/observations/257487336
-7,11/28/2024,Observation,Vegetative growth,43.9,"10.80337, 79.13865",https://www.inaturalist.org/observations/253500692
-8,3/9/2024,Observation,Flowering,493,"17.65990, 75.90639",https://www.inaturalist.org/observations/253475779
-9,4/28/2023,Observation,Flowering,251," 28.68753, 77.21898",https://www.inaturalist.org/observations/157106576
-10,3/27/2022,Observation,Flowering,467," 11.02676, 76.90577",https://www.inaturalist.org/observations/250932392
-11,10/17/2024,Observation,Flowering,426," -7.64810, 110.37604",https://www.inaturalist.org/observations/247737622
-12,10/17/2024,Observation,Flowering,425," -7.64814, 110.37610",https://www.inaturalist.org/observations/247737619
-13,4/12/2022,Observation,Flowering,31,"13.01044, 80.21739",https://www.inaturalist.org/observations/242845747
-14,7/7/2024,Observation,Flowering,51," -8.80041, 115.21441",https://www.inaturalist.org/observations/227721098
-15,5/6/2024,Observation,Flowering,278," -19.38382, 169.29451",https://www.inaturalist.org/observations/221034415
-16,4/5/2024,Observation,Flowering,631," 11.09976, 76.74818",https://www.inaturalist.org/observations/213963034
-17,4/29/2024,Observation,Fruiting,24,"12.62853, 74.94352",https://www.inaturalist.org/observations/212501025
-18,9/29/2024,Observation,Fruiting,31," -12.74586, 143.27676",https://www.inaturalist.org/observations/241600797
-19,4/29/2024,Observation,Flowering,462,"26.88024, 75.80598",https://www.inaturalist.org/observations/211435754
-20,4/26/2024,Observation,Flowering,902,"12.73210, 77.79036",https://www.inaturalist.org/observations/209489198
-21,4/22/2024,Observation,Flowering,234,"31.56971, 74.31663",https://www.inaturalist.org/observations/209075290
-22,3/30/2024,Observation,Flowering,157,"16.23238, 119.79116",https://www.inaturalist.org/observations/205610478
-23,4/4/2024,Observation,Flowering,183,"12.87585, 79.29303",https://www.inaturalist.org/observations/205382130
-24,3/24/2024,Observation,Flowering,157,"9.84113, 77.93573",https://www.inaturalist.org/observations/203738331
-25,3/22/2024,Observation,Flowering,71,"19.13243, 72.91602",https://www.inaturalist.org/observations/203464617
-26,2/23/2024,Observation,Flowering,309,"20.71715, 77.00370",https://www.inaturalist.org/observations/200181727
-27,3/15/2022,Observation,Flowering,308,"20.71651, 77.00378",https://www.inaturalist.org/observations/188974864
-28,9/29/2023,Observation,Vegetative growth,493,"17.65990, 75.90639",https://www.inaturalist.org/observations/186018877
-29,8/27/2023,Observation,Fruiting,477,"26.92188, 75.82239",https://www.inaturalist.org/observations/180436276
-30,4/14/2022,Observation,Flowering,56,"22.42418, 87.26571",https://www.inaturalist.org/observations/175383996
-31,5/9/2023,Observation,Flowering,33,"2.91245, 101.68319",https://www.inaturalist.org/observations/161523802
-32,5/20/2023,Observation,Fruiting,150,"22.26509, 70.71321",https://www.inaturalist.org/observations/160920582
-33,4/29/2023,Observation,Flowering,57,"10.95254, 79.26324",https://www.inaturalist.org/observations/155786433
-34,3/28/2023,Observation,Flowering,65,"14.65029, 121.07076",https://www.inaturalist.org/observations/152931139
-35,2/1/2023,Observation,Flowering,313,"11.10493, 77.34964",https://www.inaturalist.org/observations/149821852
-36,2/18/2023,Observation,Flowering,34," 22.58044, 88.28417",https://www.inaturalist.org/observations/149130136
-37,,,,,,
-38,12/25/2019,Observation,Vegetative growth,589," 23.22904, 77.36402",https://www.inaturalist.org/observations/139357092
-39,6/10/2022,Observation,Fruiting,196,"12.22098, 79.06288",https://www.inaturalist.org/observations/122795712
-40,4/15/2018,Observation,Flowering,34,"22.56289, 114.08087",https://www.inaturalist.org/observations/117693277
-41,5/15/2022,Observation,Fruiting,20,"19.01420, 73.00196",https://www.inaturalist.org/observations/117153361
-42,9/13/2015,Observation,Fruiting,20," -19.50535, 169.24768",https://www.inaturalist.org/observations/116920604
-43,3/17/2022,Observation,Flowering,147,"10.86641, 76.64687",https://www.inaturalist.org/observations/115064326
-44,4/16/2022,Observation,Flowering,690,"11.05725, 76.84912",https://www.inaturalist.org/observations/114112638
-45,3/29/2022,Observation,Flowering,380,"11.78356, 78.15775",https://www.inaturalist.org/observations/109627093
-46,3/12/2022,Observation,Flowering,373,"20.28780, 100.05727",https://www.inaturalist.org/observations/108801014
-47,3/14/2022,Observation,Flowering,32,"22.58063, 88.28440",https://www.inaturalist.org/observations/108578600
-48,3/8/2022,Observation,Flowering,45,"12.09226, 75.24889",https://www.inaturalist.org/observations/108166548
-49,2/6/2022,Observation,Flowering,29,"10.84082, 76.02505",https://www.inaturalist.org/observations/106225457
-50,4/11/2021,Observation,Flowering,241,"28.68627, 77.22178",https://www.inaturalist.org/observations/104938900
-51,5/4/2019,Observation,Flowering,1295," 17.93072, 73.64773",https://www.inaturalist.org/observations/103046878
-52,,,,,,
-53,3/23/2015,Observation,Flowering,194," 12.21561, 79.02891",https://www.inaturalist.org/observations/95126392
-54,8/11/2021,Observation,Flowering,21," -12.66798, 143.37391",https://www.inaturalist.org/observations/92623082
-55,,,,,,
-56,8/15/2021,Observation,Fruiting,29,"10.88352, 76.06437",https://www.inaturalist.org/observations/91238644
-57,5/15/2021,Observation,Flowering,659," 18.74134, 76.39596",https://www.inaturalist.org/observations/89044487
-58,5/23/2021,Observation,Fruiting,44,"10.88348, 76.06726",https://www.inaturalist.org/observations/79944034
-59,3/1/2021,Observation,Flowering,47,"10.76479, 76.37320",https://www.inaturalist.org/observations/78673879
-60,5/1/2021,Observation,Flowering,46,"22.47129, 113.99520",https://www.inaturalist.org/observations/77620428
-61,4/8/2021,Observation,Flowering,159,"3.42608, 98.15266",https://www.inaturalist.org/observations/73398361
-62,,,,,,
-63,8/17/2020,Observation,Flowering,77," -12.14023, 142.62311",https://www.inaturalist.org/observations/67060996
-64,,,,,,
-65,,,,,,
-66,8/10/2020,Observation,Flowering,99," -13.43663, 142.94454",https://www.inaturalist.org/observations/61248828
-67,7/7/2020,Observation,Fruiting,268,"26.82674, 89.12622",https://www.inaturalist.org/observations/53430186
-68,3/15/2019,Observation,Flowering,453,"21.73330, 79.36635",https://www.inaturalist.org/observations/52916314
-69,4/12/2020,Observation,Flowering,29,"22.39155, 113.96848",https://www.inaturalist.org/observations/48913478
-70,5/19/2020,Observation,Flowering,9,"22.31566, 114.16602",https://www.inaturalist.org/observations/46535082
-71,5/8/2020,Observation,Flowering,3,"22.46209, 114.00085",https://www.inaturalist.org/observations/45559255
-72,5/3/2020,Observation,Flowering,3,"22.46064, 114.00419",https://www.inaturalist.org/observations/45042122
-73,3/12/2018,Observation,Flowering,92,"17.44626, 73.63996",https://www.inaturalist.org/observations/30908490
-74,4/20/2019,Observation,Flowering,30,"17.96161, 73.03639",https://www.inaturalist.org/observations/30255047
-75,4/16/2019,Observation,Flowering,1295,"17.93072, 73.64773",https://www.inaturalist.org/observations/26387752
-76,4/5/2018,Observation,Flowering,195,"14.23633, 121.03297",https://www.inaturalist.org/observations/10637109
-77,9/25/2015,Observation,Vegetative growth,56,"22.28398, 114.13711",https://www.inaturalist.org/observations/1992813
-78,4/4/2009,Observation,Flowering,463," 26.91461, 75.73186",https://www.inaturalist.org/observations/1493429
-79,8/6/2018,Observation,Flowering,57,"1.314059, 103.816014",https://www.nparks.gov.sg/FloraFaunaWeb/Flora/2/8/2828#gallery-1
-80,8/30/2012,Observation,Flowering,26,"	16.989065, 82.247467",https://www.gbif.org/occurrence/2598668633
-81,2/18/2018,Observation,Flowering,1145,"	12.42442, 	75.738182",https://www.gbif.org/occurrence/2598678000
-82,5/2/2016,Specimen,Flowering,28,"	-19.58114, 169.46644",https://www.gbif.org/occurrence/1930908804
-83,6/13/2008,Specimen,Flowering,32,"	-11.9808, 142.7633",https://www.gbif.org/occurrence/2830063228
-84,9/8/2009,Specimen,Flowering,39,"	-12.7411, 	143.2578",https://www.gbif.org/occurrence/2828398113
-85,9/13/2008,Specimen,Flowering,2,"25.675, 	-80.268333",https://www.gbif.org/occurrence/1457747411
-86,2/9/2002,Specimen,Flowering,999,"14.35, 101.37",https://www.gbif.org/occurrence/2514891829
-,,,,,,
-,,,,,,
-89,3/27/1991,Specimen,Flowering,172,"	11.58333, 	1.46667",https://www.gbif.org/occurrence/2517447278
-90,7/8/1991,Specimen,Flowering,23,"	-12.484458, 	143.267726",https://www.gbif.org/occurrence/2418968457
-91,3/19/1990,Specimen,Flowering,1525,"18.83333, 98.88333",https://www.gbif.org/occurrence/2515030275
-92,7/15/1990,Specimen,Flowering,87," -4.46667, 	142.71667",https://www.gbif.org/occurrence/2515036617
-93,8/10/1987,Specimen,Flowering,102," -12.856827, 143.00945",https://www.gbif.org/occurrence/2418976398
-94,8/19/1982,Specimen,Flowering,18,"	-6.68333, 	146.91667",https://www.gbif.org/occurrence/2515034843
-95,1/11/1979,Specimen,Flowering,613,"	-6.71667, 146.85	",https://www.gbif.org/occurrence/2514113810
-96,6/26/1978,Specimen,Flowering,53," -5.0, 122.9",https://www.gbif.org/occurrence/2514101815
-97,7/25/1978,Specimen,Flowering,45," -12.740161, 143.25945",https://www.gbif.org/occurrence/2418404625
-98,3/18/1976,Specimen,Flowering,203,"	27.55, 	84.47",https://www.gbif.org/occurrence/2273867400
-99,9/13/1975,Specimen,Flowering,178," -12.88, 143.02",https://www.gbif.org/occurrence/2827416420
-100,4/2/1974,Specimen,Flowering,223,"	-6.66667, 	146.58333",https://www.gbif.org/occurrence/2514104817
-101,10/28/2022,Observation,Flowering,21,"12.869336, 	80.243512",https://www.gbif.org/occurrence/4866472416
-102,12/17/2020,Observation,Flowering,35,"10.359608, 76.208264",https://www.gbif.org/occurrence/3034578511
-103,4/3/2018,Observation,Flowering,798,"	26.864998, 89.42028",https://www.gbif.org/occurrence/1844509565
-104,3/12/2018,Observation,Flowering,130,"17.43, 	73.650002",https://www.gbif.org/occurrence/2598663589
-105,4/5/2015,Observation,Flowering,206,"	12.95976, 79.303085",https://www.gbif.org/occurrence/2598660515
-106,3/27/2019,Observation,Flowering,4,"22.6395, 120.2980",https://www.facebook.com/photo.php?fbid=438917523318276&id=301374810405882&set=a.430421024167926&locale=be_BY
-107,4/12/2024,Observation,Flowering,5,"25.037849, 121.548859",https://www.facebook.com/photo/?fbid=9568991359830311&set=pcb.9568992063163574
-108,4/13/2024,Observation,Flowering,8,"23.574666, 120.293012",https://www.facebook.com/photo/?fbid=1956162554895660&set=pcb.1956162718228977
-109,4/30/2024,Observation,Flowering,36,"25.226839, 121.451511",https://www.facebook.com/photo?fbid=1892562584592426&set=pcb.1892563027925715
-110,4/10/2021,Observation,Flowering,8,"25.000982, 121.512387",https://www.facebook.com/permalink.php/?story_fbid=243850630807199&id=100170111841919
-111,4/13/2024,Observation,Flowering,8,"25.000982, 121.512387",https://www.facebook.com/photo/?fbid=10219702397029922&set=pcb.1871282803323017
-112,3/16/2025,Observation,Flowering,144,"21.76176, 73.49519",https://www.inaturalist.org/observations/265525263
-113,4/11/2024,Observation,Flowering,17,"22.325844, 114.178082",https://www.instagram.com/p/C5n2Q0XSzs6/
-114,5/5/2023,Observation,Flowering,8,"25.000976, 121.512435",https://www.instagram.com/p/Cr2CIXRhwG8/
-115,4/18/2022,Observation,Flowering,136,"24.180162, 120.717807",https://www.instagram.com/p/CcfnkX0vgNq/
-116,5/17/2024,Observation,Flowering,3,"25.025247, 121.507009",https://www.instagram.com/p/C7ErJQxyNUo/
-117,4/18/2024,Observation,Flowering,13,"22.193729, 113.541260",https://www.instagram.com/p/C55xAyISmAm/
-118,4/18/2018,Observation,Flowering,5,"25.037849, 121.548859",https://www.instagram.com/p/BhvgKGkgJKQ/
-119,4/18/2020,Observation,Flowering,136,"24.180162, 120.717807",https://www.instagram.com/p/B_Giy6hgsgU/
-120,5/4/2022,Observation,Flowering,36,"25.226839, 121.451511",https://www.instagram.com/p/CdI7yTFP8b0/
-121,4/9/2023,Observation,Flowering,4,"22.639508, 120.297646",https://www.instagram.com/p/Cq0TbUmhWZB/
-122,4/11/2023,Observation,Flowering,2,"22.999253, 120.169286",https://www.instagram.com/p/Cq5fOPyheiR/
-123,5/11/2017,Observation,Flowering,36,"25.226839, 121.451511",https://www.instagram.com/p/BT7q47ijKKX/
-124,4/2/2024,Observation,Flowering,8,"25.000982, 121.512387",https://www.instagram.com/p/CNJPNRwh5C2/
-125,4/10/2024,Observation,Flowering,7,"22.323404, 114.187433",https://www.instagram.com/p/C5lO1QMvtlu/
-126,3/23/2025,Observation,Flowering,26,"18.95177, 72.81768",https://www.inaturalist.org/observations/266510512
-127,2/23/2025,Observation,Flowering,24,"9.22031, 76.64584",https://www.inaturalist.org/observations/267168524
-128,4/4/2025,Observation,Flowering,,"22.99920, 120.16932",https://www.inaturalist.org/observations/268513702
-129,4/14/2025,Observation,Flowering,,"24.15025, 120.68584",https://www.inaturalist.org/observations/270335505
-129,4/14/2025,Observation,Flowering,,"25.037849, 121.548859",https://www.facebook.com/photo/?fbid=9857463244319698&set=pcb.2138636353254326
-131,4/21/2025,Observation,Flowering,,"25.112385, 121.561190",https://www.facebook.com/photo?fbid=9910866395646049&set=pcb.2145406059244022
-132,4/11/2025,Observation,Flowering,,"25.018954, 121.531680",private communication 
-133,4/5/2018,Observation,Flowering,,"25.018954, 121.531680",https://www.instagram.com/p/BhLIylglaWd/
-134,4/10/2019,Observation,Flowering,,"25.018954, 121.531680",https://www.instagram.com/p/BwTWaR_nDxT/
-135,5/20/2023,Observation,Flowering,,"25.226839, 121.451511",https://www.instagram.com/p/CsfJPTZSQJ1/
-136,4/11/2020,Observation,Flowering,,"25.018954, 121.531680",https://www.instagram.com/p/B-1lioOJALC/
-137,4/8/2022,Observation,Flowering,,"25.018954, 121.531680",https://www.instagram.com/p/CcGHJttvZjZ/
-138,4/5/2021,Observation,Flowering,,"25.018954, 121.531680",https://www.instagram.com/p/CNSa5dEsAET/
-139,4/12/2024,Observation,Flowering,,"25.018954, 121.531680",https://www.instagram.com/p/C5qQAVpPiNN/
-140,4/30/2020,Observation,Flowering,,"25.226839, 121.451511",https://www.instagram.com/p/B_l1T0kjusH/
-141,4/13/2020,Observation,Flowering,,"24.180162, 120.717807",https://www.instagram.com/p/CNlwXNynr2y/
-142,4/13/2023,Observation,Flowering,,"25.018954, 121.531680",https://www.instagram.com/p/Cq9cpodBmGj/
-143,5/1/2013,Observation,Flowering,,"24.886199, 121.251162",https://mtff98.pixnet.net/blog/post/463062437
-144,5/1/2015,Observation,Flowering,,"24.886199, 121.251162",https://mtff98.pixnet.net/blog/post/422520844
-145,5/8/2016,Observation,Flowering,,"24.886199, 121.251162",https://mtff98.pixnet.net/blog/post/463062437
-146,5/7/2017,Observation,Flowering,,"24.886199, 121.251162",https://mtff98.pixnet.net/blog/post/458918398
-147,5/6/2018,Observation,Flowering,,"24.886199, 121.251162",https://mtff98.pixnet.net/blog/post/463062437
-148,5/8/2011,Observation,Flowering,,"25.018954, 121.531680",https://mtff98.pixnet.net/blog/post/275646857
-149,4/30/2012,Observation,Flowering,,"25.018954, 121.531680",https://adonis0003.blogspot.com/2012/04/blog-post.html?m=0
-150,4/27/2014,Observation,Flowering,,"25.018954, 121.531680",https://willywan.blogspot.com/2014/04/blog-post_27.html
-151,5/12/2015,Observation,Flowering,,"25.226839, 121.451511",https://www.youtube.com/watch?v=6W8A_CX8h5c
-152,4/12/2009,Observation,Flowering,,"25.018954, 121.531680",https://blog.udn.com/changerose/2843496
+Number,Date,Type,State,Coordinate
+1,3/10/2025,Observation,Flowering,"21.98899, 96.11989"
+2,3/8/2025,Observation,Flowering,"20.46345, 85.88421"
+4,2/21/2025,Observation,Flowering,"12.08897, 75.90360"
+5,2/11/2025,Observation,Flowering,"11.10475, 77.34965"
+8,3/9/2024,Observation,Flowering,"17.65990, 75.90639"
+9,4/28/2023,Observation,Flowering,"28.68753, 77.21898"
+10,3/27/2022,Observation,Flowering,"11.02676, 76.90577"
+13,4/12/2022,Observation,Flowering,"13.01044, 80.21739"
+15,5/6/2024,Observation,Flowering,"-19.38382, 169.29451"
+16,4/5/2024,Observation,Flowering,"11.09976, 76.74818"
+19,4/29/2024,Observation,Flowering,"26.88024, 75.80598"
+20,4/26/2024,Observation,Flowering,"12.73210, 77.79036"
+21,4/22/2024,Observation,Flowering,"31.56971, 74.31663"
+22,3/30/2024,Observation,Flowering,"16.23238, 119.79116"
+23,4/4/2024,Observation,Flowering,"12.87585, 79.29303"
+24,3/24/2024,Observation,Flowering,"9.84113, 77.93573"
+25,3/22/2024,Observation,Flowering,"19.13243, 72.91602"
+26,2/23/2024,Observation,Flowering,"20.71715, 77.00370"
+27,3/15/2022,Observation,Flowering,"20.71651, 77.00378"
+30,4/14/2022,Observation,Flowering,"22.42418, 87.26571"
+31,5/9/2023,Observation,Flowering,"2.91245, 101.68319"
+33,4/29/2023,Observation,Flowering,"10.95254, 79.26324"
+34,3/28/2023,Observation,Flowering,"14.65029, 121.07076"
+35,2/1/2023,Observation,Flowering,"11.10493, 77.34964"
+36,2/18/2023,Observation,Flowering," 22.58044, 88.28417"
+40,4/15/2018,Observation,Flowering,"22.56289, 114.08087"
+43,3/17/2022,Observation,Flowering,"10.86641, 76.64687"
+44,4/16/2022,Observation,Flowering,"11.05725, 76.84912"
+45,3/29/2022,Observation,Flowering,"11.78356, 78.15775"
+46,3/12/2022,Observation,Flowering,"20.28780, 100.05727"
+47,3/14/2022,Observation,Flowering,"22.58063, 88.28440"
+48,3/8/2022,Observation,Flowering,"12.09226, 75.24889"
+49,2/6/2022,Observation,Flowering,"10.84082, 76.02505"
+50,4/11/2021,Observation,Flowering,"28.68627, 77.22178"
+53,3/23/2015,Observation,Flowering," 12.21561, 79.02891"
+54,8/11/2021,Observation,Flowering," -12.66798, 143.37391"
+57,5/15/2021,Observation,Flowering,"18.74134, 76.39596"
+59,3/1/2021,Observation,Flowering,"10.76479, 76.37320"
+60,5/1/2021,Observation,Flowering,"22.47129, 113.99520"
+61,4/8/2021,Observation,Flowering,"3.42608, 98.15266"
+68,3/15/2019,Observation,Flowering,"21.73330, 79.36635"
+69,4/12/2020,Observation,Flowering,"22.39155, 113.96848"
+70,5/19/2020,Observation,Flowering,"22.31566, 114.16602"
+71,5/8/2020,Observation,Flowering,"22.46209, 114.00085"
+72,5/3/2020,Observation,Flowering,"22.46064, 114.00419"
+73,3/12/2018,Observation,Flowering,"17.44626, 73.63996"
+74,4/20/2019,Observation,Flowering,"17.96161, 73.03639"
+75,4/16/2019,Observation,Flowering,"17.93072, 73.64773"
+76,4/5/2018,Observation,Flowering,"14.23633, 121.03297"
+78,4/4/2009,Observation,Flowering," 26.91461, 75.73186"
+81,2/18/2018,Observation,Flowering,"	12.42442, 	75.738182"
+102,12/17/2020,Observation,Flowering,"10.359608, 76.208264"
+103,4/3/2018,Observation,Flowering,"	26.864998, 89.42028"
+104,3/12/2018,Observation,Flowering,"17.43, 	73.650002"
+105,4/5/2015,Observation,Flowering,"	12.95976, 79.303085"
+106,3/27/2019,Observation,Flowering,"22.6395, 120.2980"
+107,4/12/2024,Observation,Flowering,"25.037849, 121.548859"
+108,4/13/2024,Observation,Flowering,"23.574666, 120.293012"
+112,3/16/2025,Observation,Flowering,"21.76176, 73.49519"
+113,4/11/2024,Observation,Flowering,"22.325844, 114.178082"
+114,5/5/2023,Observation,Flowering,"25.000976, 121.512435"
+116,5/17/2024,Observation,Flowering,"25.025247, 121.507009"
+117,4/18/2024,Observation,Flowering,"22.193729, 113.541260"
+119,4/18/2020,Observation,Flowering,"24.180162, 120.717807"
+120,5/4/2022,Observation,Flowering,"25.227083, 121.451716"
+121,4/9/2023,Observation,Flowering,"22.639508, 120.297646"
+122,4/11/2023,Observation,Flowering,"22.999253, 120.169286"
+123,5/11/2017,Observation,Flowering,"25.227498, 121.451464"
+124,4/2/2024,Observation,Flowering,"25.000982, 121.512387"
+125,4/10/2024,Observation,Flowering,"22.323404, 114.187433"
+126,3/23/2025,Observation,Flowering,"18.95177, 72.81768"
+127,2/23/2025,Observation,Flowering,"9.22031, 76.64584"
+128,4/4/2025,Observation,Flowering,"22.99920, 120.16932"
+129,4/14/2025,Observation,Flowering,"24.15025, 120.68584"
+131,4/21/2025,Observation,Flowering,"25.112385, 121.561190"
+132,4/11/2025,Observation,Flowering,"25.018954, 121.531680"
+135,5/20/2023,Observation,Flowering,"25.226839, 121.451511"
+143,5/1/2013,Observation,Flowering,"24.886199, 121.251162"
+160,2025/4/10,Observation,Flowering,"3.6795109628, 97.6604361306"
+161,2019/4/26,Observation,Flowering,"28.4933670921, 77.265294722"
+162,2025/5/21,Observation,Flowering,"24.74482, 121.7481383333"
+163,2025/5/13,Observation,Flowering,"20.7248492173, 86.8669803115"
+164,2025/5/16,Observation,Flowering,"20.7880644953, 107.055437752"
+165,2025/5/16,Observation,Flowering,"20.7885099, 107.0541862"
+166,2025/5/16,Observation,Flowering,"22.9737950335, 120.1842451605"
+167,2025/4/27,Observation,Flowering,"28.5301189167, 77.1925506389"
+168,2025/4/28,Observation,Flowering,"22.2156001252, 113.5448799173"
+169,2025/4/27,Observation,Flowering,"28.48308, 77.1147969722"
+170,2025/4/27,Observation,Flowering,"22.2001340901, 113.5506103065"
+171,2025/4/26,Observation,Flowering,"22.1226278333, 113.5707166667"
+172,2025/4/19,Observation,Flowering,"8.5081833333, 76.9621361111"
+173,2025/4/14,Observation,Flowering,"24.15025, 120.685845"
+174,2025/3/12,Observation,Flowering,"20.1568528333, 99.6209416667"
+175,2025/3/19,Observation,Flowering,"13.9018551938, 100.5301661789"
+176,2021/6/21,Observation,Flowering,"34.930881, 137.060872"
+177,2020/5/17,Observation,Flowering,"22.325707, 114.178054"
+178,2024/3/23,Observation,Flowering,"18.804590, 99.135513"
+179,2017/3/16,Observation,Flowering,"13.727521, 100.363846"
+180,2018/3/18,Observation,Flowering,"13.791528, 100.320025"
+181,2017/4/7,Observation,Flowering,"18.772084, 98.977532"
+182,2017/3/19,Observation,Flowering,"13.757673, 99.843949"
+183,2016/4/8,Observation,Flowering,"14.654967, 121.067435"
+184,2025/3/9,Observation,Flowering,"17.918169, 121.691893"
+185,2025/3/13,Observation,Flowering,"15.653969, 120.819615"
