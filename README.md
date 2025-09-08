@@ -1,5 +1,5 @@
 # Deriving exploratory temperature-based phenological indicators under data-limited conditions: integrating ERA5 and citizen science 
-Y.S. Huang, C.H. Fan, Y.C. Lu, Y.T. Wu, Y.C. Niu, Y.H. Hsieh, Y.K. Liao*, S.J. Sun*. Climate-driven phenology modeling for data-limited species using ERA5 reanalysis and citizen science. (in prep)
+Y.S. Huang, C.H. Fan, Y.C. Lu, Y.T. Wu, Y.C. Niu, Y.H. Hsieh, Y.K. Liao*, S.J. Sun*. Deriving exploratory temperature-based phenological indicators under data-limited conditions: integrating ERA5 and citizen science 
 ## Maintainer
 name: C.H. Fan
 ## environment
